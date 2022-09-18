@@ -1,0 +1,26 @@
+
+
+.app-title{
+    background-color: rgb(72, 84, 221);
+    margin: 5px;
+    color: aliceblue;
+}
+
+.shadow{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; 
+    padding: 5px;
+    height: 100%;
+    
+}
+
+h2 {
+    color: rgba(70, 70, 70, 0.737);
+}
+h3{
+    color: rgb(70, 70, 70, 0.737);
+}
+
+.m-hight{
+    max-height: 300px;
+    overflow: scroll;
+}
