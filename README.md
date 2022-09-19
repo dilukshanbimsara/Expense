@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sample Expense Tracking Web-App 
 
 Add expense and Remove Expense are there under some conditions,.\
@@ -7,12 +7,12 @@ Add expense and Remove Expense are there under some conditions,.\
 3.When High Expense , the system will show warning message.
 # Mobile View
 
-![My Image](./src/img/1.png)
-![My Image](./src/img/2.png)
+![My Image](./client/src/img/1.png)
+![My Image](./client/src/img/2.png)
 
 # Desktop View
 
-![My Image](./src/img/3.png)
+![My Image](.client/src/img/3.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
