@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+<<<<<<< HEAD
+# Sample Expense Tracking Web-App 
 
-![My Image](../src/img/1.PNG)
+Add expense and Remove Expense are there under some conditions,.\
+1.View only current munth data.\
+2.Can add and delete only current month till today date.\
+3.When High Expense , the system will show warning message.
+# Mobile View
+
+![My Image](./src/img/1.png)
+![My Image](./src/img/2.png)
+
+# Desktop View
+
+![My Image](./src/img/3.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,3 +83,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Expense
+React Node Mysql
+>>>>>>> 86e8c178418f9343515f9f8eaa9785797dbdc011
