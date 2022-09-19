@@ -12,7 +12,7 @@ Add expense and Remove Expense are there under some conditions,.\
 
 # Desktop View
 
-![My Image](.client/src/img/3.png)
+![My Image](./client/src/img/3.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
